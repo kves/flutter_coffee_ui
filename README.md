@@ -1,16 +1,8 @@
-# dribble_coffee_ui
+# Flutter Coffee UI
+Simple coffee app from Dribble project, Only UI, no functionallity.\
+dribble design: https://dribbble.com/shots/15475209-Coffee-Shop-Mobile-Apps-Dark-Mode \
+used photo: cappuccino_1 Photo by Anubhav Arora on Unsplash https://unsplash.com/photos/RFLDagtOsMM
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Result on Iphone Pro Max \
+![iphone pro max](https://user-images.githubusercontent.com/26691811/202741467-f1c37841-fed5-49d1-b20d-7539b4d1ce75.png)
